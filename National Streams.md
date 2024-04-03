@@ -1,4 +1,8 @@
 # National Programs, TV Simulcast, & Web
+Below you will find stream_data for various web-based streams, including national U.S. programming.  
+You may copy these entries to your live_streams.sii file.  
+Remember to change the stream_data ID number to be sequential with your existing stream_data.  
+
  stream_data[263]: "https://audiotainment-sw.streamabc.net/atsw-exkl70errock-mp3-128-8863463|Audiotainment 70er Rock|70s|DE|52|0”  
  stream_data[264]: "https://rfcm.streamguys1.com/60hits-mp3|RFC Media 60s Hits|60s|EN|52|0”  
  stream_data[265]: "https://rfcm.streamguys1.com/70hits-mp3|RFC Media 70s Hits|70s|EN|52|0”  
