@@ -1,4 +1,6 @@
 # BY GENRE
+Below you will find stream_data entries you may copy to your live_streams.sii file.  
+Remember to change the stream_data ID number to be sequential with your existing stream_data.
 ## Individual Decade
  stream_data[1]: "https://audiotainment-sw.streamabc.net/atsw-exkl70errock-mp3-128-8863463|Audiotainment 70er Rock|70s|EN|52|0”  
  stream_data[2]: "https://rfcm.streamguys1.com/60hits-mp3|RFC Media 60s Hits|60s|EN|52|0”  
