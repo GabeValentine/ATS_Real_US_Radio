@@ -19,17 +19,17 @@ When I bought ATS I found the in-game radio pathetic. There were less than 40 st
 3.	(optional) Open ATS and select radio. Click "update from internet" to add default stations.  
 
 ## Option B
-1. Browse the stream_data lists to find the stations you would like to import:
-[All by Genre](https://github.com/GabeValentine/ATS_Real_US_Radio/blob/main/All%20by%20Genre.md)
-[U.S. by State](https://github.com/GabeValentine/ATS_Real_US_Radio/blob/main/U.S.%20By%20State.md)
+1. Browse the stream_data lists to find the stations you would like to import:  
+[All by Genre](https://github.com/GabeValentine/ATS_Real_US_Radio/blob/main/All%20by%20Genre.md)  
+[U.S. by State](https://github.com/GabeValentine/ATS_Real_US_Radio/blob/main/U.S.%20By%20State.md)  
 [National U.S. Programming](https://github.com/GabeValentine/ATS_Real_US_Radio/blob/main/National%20Streams.md)  
 [Canada by Province](https://github.com/GabeValentine/ATS_Real_US_Radio/blob/main/Canada%20by%20Province.md)  
-3.	Locate you live_streams.sii file, located in \Users\YOU\Documents\American Truck Simulator.
-4.	Open with Notepad++ or similar program.
-5.	Copy entries to the end of the list and change stream number to be unique for each line (if last entry was 234, new station is 235).
-6.	Save file and enjoy.
+3.	Locate you live_streams.sii file, located in \Users\YOU\Documents\American Truck Simulator.  
+4.	Open with Notepad++ or similar program.  
+5.	Copy entries to the end of the list and change stream number to be unique for each line (if last entry was 234, new station is 235).  
+6.	Save file and enjoy.  
 
-## Tips:
+## Tips:  
 - Don't worry about sorting! The game will rearrange the list when you sort stations in-game, so don't waste your time.  
 - Don't worry about first few lines of code (live_stream_def and number of streams). You can change them manually but ATS updates them automatically when you launch the radio.  
 - You can replace any existing entry (for example, non-working streams) without problem.  
