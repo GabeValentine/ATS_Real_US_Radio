@@ -1,4 +1,8 @@
 # U.S. BY STATE
+Below you will find stream_data for U.S. states in English and Spanish.  
+You may copy these entries to your live_streams.sii file.  
+Remember to change the stream_data ID number to be sequential with your existing stream_data.  
+
 ## Alabama
  stream_data[0]: "https://20593.live.streamtheworld.com/WUHTFM_SC|WUHT Hot 107.7 FM Birmingham, AL|Urban AC|EN|1|0”  
  stream_data[1]: "https://19813.live.streamtheworld.com/WXFXFM_SC|WXFX The Fox 95.1 FM Montgomery, AL|Rock|EN|1|0”  
