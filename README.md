@@ -1,5 +1,4 @@
-# ATS_Real_US_Radio
-Real U.S. Radio mod for American Truck Sim.
+# Real U.S. Radio mod for American Truck Sim.
 Hello! Here are some radio stations formatted for American Truck Simulator.
 
 When I bought ATS I found the in-game radio pathetic. There were less than 40 streams added by “update from internet” in-game so I started looking for more streams on my own. Initially, this was just a list of a few radio stations I listen to daily but now includes over 360 radio streams. Most of these stations are U.S. based, but the list also now covers Canada and includes national programming. Each URL is a publicly available radio stream I gathered from the internet myself using an internet browser’s network traffic monitor (F12).
