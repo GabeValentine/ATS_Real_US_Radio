@@ -1,4 +1,7 @@
 # CANADA BY PROVINCE
+Below you will find stream_data for Canadian radio stations in English and French.  
+You may copy these entries to your live_streams.sii file.  
+Remember to change the stream_data ID number to be sequential with your existing stream_data.  
 ## Alberta
  stream_data[320]: "https://ais-sa1.streamon.fm/7000_64k.mp3|CKUA 94.9 FM Edmonton, AB|Community|EN|53|0”  
  stream_data[321]: "https://kenner-media.streamb.live/SB00238|CKFT Mix 107.9 FM Edmonton, AB|Classic Hits|EN|53|0”  
