@@ -15,6 +15,7 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[7]: "https://tektite.streamguys1.com:5340/live|KBRW Top of the World 91.9 FM Utqiagvik, AK|Community|EN|2|0”  
  stream_data[8]: "https://tektite.streamguys1.com:5190/live|KCAW 104.7 FM Sitka, AK|News|EN|2|0”  
  stream_data[9]: "https://knlt.streamguys1.com/live|KNLT The Pass 95.5 FM Palmer, AK|Alternative (AAA)|EN|2|0”  
+ stream_data[361]: "https://ic2.sslstream.com/kvnt-am|KVNT 1020 AM 92.5 FM Anchorage, AK|Talk|EN|2|0"  
 ## Arizona
  stream_data[10]: "https://tonationnsn.streamguys1.com/live|KOHN 91.9 FM Sells, AZ|Community|EN|3|0”  
  stream_data[11]: "https://18703.live.streamtheworld.com/KUPDFM.mp3|KUPD 97.9 FM Tempe, AZ|Rock|EN|3|0”  
@@ -36,6 +37,7 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[25]: "https://18253.live.streamtheworld.com/KDFCFM_SC|KDFC 90.3 FM San Francisco, CA|Classical|EN|5|0”  
  stream_data[26]: "http://crystalout.surfernetwork.com:8001/KMKX-FM_MP3|KMKX Max 93.5 FM Fort Bragg, CA|Classic Rock|EN|5|0”  
  stream_data[27]: "https://stream1.thesocalsound.org/1|KCSN The So Cal Sound 88.5 FM Los Angeles, CA|College|EN|5|0”  
+ stream_data[365]: "https://23023.live.streamtheworld.com/KKBZFM.mp3|KKBZ Rock 105.1 FM Fresno, CA|Rock|EN|5|0"  
 ## Colorado
  stream_data[28]: "https://kdnk.streamguys1.com/live|KDNK 88.1 FM Glenwood Springs, CO|Community|EN|6|0”  
  stream_data[29]: "https://kuvo-ice.streamguys1.com/kuvohd3-mp3-128|KUVO HD3 Open Media 92.9 FM Denver, CO|Community|EN|6|0”  
@@ -81,6 +83,7 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[65]: "http://crystalout.surfernetwork.com:8001/WLKQ-FM_MP3|WLKQ La Raza 102.3 FM Atlanta, GA|Regional|ES|10|0”  
  stream_data[66]: "https://ad-oom-cmg.streamguys1.com/atl985/atl985-tunein.mp3|WSB 98.5 FM Atlanta, GA|Adult Contemporary|EN|10|0”  
  stream_data[67]: "http://crystalout.surfernetwork.com:8001/WRHQ_MP3|WRHQ 105.3 FM Savannah, GA|Alternative (AAA)|EN|10|0”  
+ stream_data[362]: "https://ad-oom-cmg.streamguys1.com/atl750/atl750-tunein.mp3|WSB 750 AM 95.5 FM Atlanta, GA|News|EN|10|0"  
 ## Hawaii
  stream_data[68]: "https://pacificmedia.cdnstream1.com/2789_128.mp3|KSRF 95.9 FM Kaua'i, HI|Regional|EN|11|0”  
  stream_data[69]: "https://16613.live.streamtheworld.com/KKEAAM_MP3.mp3|KKEA ESPN 1420 AM 92.7 FM Honolulu, HI|Sports|EN|11|0”  
@@ -101,6 +104,7 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[81]: "https://ais-sa1.streamon.fm/7797_96k.mp3|WCJC 99.3 FM Muncie, IN|Country|EN|14|0”  
  stream_data[82]: "http://crystalout.surfernetwork.com:8001/WEDM-FM_MP3|WEDM WCHS 91.1 FM Indianapolis, IN|Variety|EN|14|0”  
  stream_data[83]: "https://24423.live.streamtheworld.com/WYXBFM_SC|WYXB 105.7 FM Indianapolis, IN|Adult Contemporary|EN|14|0”  
+ stream_data[366]: "https://15263.live.streamtheworld.com/WTHIFM.mp3|WTHI 99.9 FM Terre Haute, IN|Country|EN|14|0"  
 ## Iowa
  stream_data[84]: "http://krui.student-services.uiowa.edu:8000/listen?|KRUI University of Iowa 89.7 FM Iowa City, IA|College|EN|15|0”  
  stream_data[85]: "http://crystalout.surfernetwork.com:8001/KCTN_MP3 |KCTN 100.1 FM Elkader, IA|Country|EN|15|0”  
@@ -127,6 +131,7 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[102]: "https://prod-18-206-223-210.amperwave.net/saga-wclzfmmp3-ibc1|WCLZ 98.9 FM Portland, ME|Alternative (AAA)|EN|19|0”  
  stream_data[103]: "https://s2.stationplaylist.com:7028/listen.mp3|WRFR Radio Free Rockland 93.3 FM Rockland, ME|Community|EN|19|0”  
  stream_data[104]: "https://stream.radio.co/s5c993fa61/listen|WFMX The Mix 107.9 FM Augusta, ME|80s|EN|19|0”  
+ stream_data[364]: "https://prod-3-81-140-20.amperwave.net/binnie-wthtfmmp3-ibc|WTHT The Wolf 99.9 FM Portland, ME|Country|EN|19|0"  
 ## Maryland
  stream_data[105]: "https://19313.live.streamtheworld.com/WIYYFM.mp3|WIYY 98 Rock 97.9 FM Baltimore, MD|Rock|EN|20|0”  
  stream_data[106]: "https://14153.live.streamtheworld.com/WCBMAM_SC|WCBM 680 AM Baltimore, MD|Talk|EN|20|0”  
@@ -190,6 +195,8 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[153]: "https://22963.live.streamtheworld.com/KKOBAM_SC|KKOB 96.3 FM 770 AM Albuquerque, NM|News|EN|31|0”  
  stream_data[154]: "https://18823.live.streamtheworld.com/KUNMFM_128.mp3|KUNM 89.9 FM University of NM|News|EN|31|0”  
  stream_data[155]: "https://us2.maindigitalstream.com/ssl/KZOR|KZOR 94.1 FM Hobbs, NM|Adult Contemporary|EN|31|0”  
+ stream_data[367]: "https://18423.live.streamtheworld.com/KANWFM.mp3|KANW 89.1 FM Albuquerque, NM|News|EN|31|0"  
+ stream_data[371]: "https://22973.live.streamtheworld.com/KANWHD2.mp3|KANW HD2 107.5 FM Albuquerque, NM|News|EN|31|0"  
 ## New York
  stream_data[156]: "http://stream.wusb.stonybrook.edu:8090/|WUSB 90.1 FM Stony Brook University, NY|College|EN|32|0”  
  stream_data[157]: "https://am820.wnyc.org/wnycam|WNYC 820 AM New York, NY|News|EN|32|0”  
@@ -225,6 +232,8 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[184]: "http://crystalout.surfernetwork.com:8001/WEGE-FM_MP3|WEGE The Eagle 104.9 FM Lima, OH|Classic Rock|EN|35|0”  
  stream_data[185]: "https://live.ideastream.org/wclv.mp3|WCLV 90.3 FM Cleveland, OH|Classical|EN|35|0”  
  stream_data[186]: "http://stream.wksu.org/wksu3.mp3.128|WKSU HD3 All Classical 89.7 FM Kent State, OH|Classical|EN|35|0”  
+ stream_data[363]: "https://20603.live.streamtheworld.com/WXKRFM_SC|WXKR 94.5 FM Toledo, OH|Classic Rock|EN|35|0"  
+ stream_data[370]: "https://27063.live.streamtheworld.com/WXKRHD2_SC|WXKR HD2 The Zone 94.5 FM Toledo, OH|Alternative Rock|EN|35|0"  
 ## Oklahoma
  stream_data[187]: "https://crystalout.surfernetwork.com:8001/KRIG-FM_MP3|KRIG 104.9 FM Bartlesville, OK|Country|EN|36|0”  
  stream_data[188]: "https://24883.live.streamtheworld.com/KATTFM_SC|KATT 100.5 FM Oklahoma City, OK|Rock|EN|36|0”  
@@ -249,6 +258,8 @@ Remember to change the stream_data ID number to be sequential with your existing
  stream_data[203]: "https://24443.live.streamtheworld.com/WWWZFM_SC|WWWZ Jamz 93.3 FM Charleston, SC|Hip Hop|EN|40|0”  
  stream_data[204]: "https://24443.live.streamtheworld.com/WSSXFM_SC|WSSX 95.1 FM Charleston, SC|Top 40 (CHR)|EN|40|0”  
  stream_data[205]: "http://crystalout.surfernetwork.com:8001/WKCL-FM_MP3|WKCL 91.5 FM Charleston, SC|Christian|EN|40|0”  
+ stream_data[368]: "https://26233.live.streamtheworld.com/WWWZFM_SC|WWWZ Z93 Jamz 93.3 FM Charleston, SC|Hip Hop|EN|40|0"  
+ stream_data[369]: "https://prod-34-207-148-90.amperwave.net/alphacorporate-wwdmfmmp3-ibc4|WWDM The Big DM 101.3 FM Columbia, SC|Urban AC|EN|40|0"  
 ## South Dakota
  stream_data[206]: "https://prod-18-206-223-210.amperwave.net/saga-kmithd3mp3-ibc1|KMIT HD3 Pure Oldies 103.5 FM Mitchell, SD|Oldies|EN|41|0”  
  stream_data[207]: "https://prod-18-206-223-210.amperwave.net/saga-kmitfmmp3-ibc1|KMIT Hot Country 105.9 FM Mitchell, SD|Country|EN|41|0”  
